@@ -40,6 +40,15 @@
   "tokens": [
     {
       "chainId": 80084,
+      "address": "0x277aaDBd9ea3dB8Fe9eA40eA6E09F6203724BdaE",
+      "symbol": "DIRAC",
+      "name": "Dirac Finance Token",
+      "decimals": 18,
+      "logoURI": "https://dirac.finance/logos/dirac-logos/black_icon.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
       "address": "0x2206182A4264bcE0663681448b24Fc6781Fc8E40",
       "symbol": "BULLA",
       "name": "Bulla token",
@@ -351,6 +360,24 @@
       "name": "WeBera Token",
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BRA.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0xC15b9182D3272d8d6ee563C021c7b3EECA8643b9",
+      "symbol": "AZT",
+      "name": "AZEx Token",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/azt.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0xa8ff751d316344e1336cf7875bb881ddd16e4f5b",
+      "symbol": "HYT",
+      "name": "HONEY TOKEN",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/dnxsac1ef/image/upload/raw/upload/src/hyt.png",
       "tags": ["featured"]
     }
   ],
